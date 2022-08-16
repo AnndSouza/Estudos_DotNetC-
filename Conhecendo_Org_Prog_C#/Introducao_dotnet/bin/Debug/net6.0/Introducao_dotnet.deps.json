@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Introducao_dotnet/1.0.0": {
+        "dependencies": {
+          "ExemploFuncoamentos.Common": "1.0.0"
+        },
+        "runtime": {
+          "Introducao_dotnet.dll": {}
+        }
+      },
+      "ExemploFuncoamentos.Common/1.0.0": {
+        "runtime": {
+          "ExemploFuncoamentos.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducao_dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploFuncoamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
